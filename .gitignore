@@ -1,0 +1,9 @@
+node_modules
+src
+asdsa
+debug.log
+example.png
+OutPut.m3u
+package.json
+*.js
+*.lock

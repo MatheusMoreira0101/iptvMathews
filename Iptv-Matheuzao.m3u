@@ -1,0 +1,128 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
+http://0.0.0.0
+
+#EXTINF: -1 tvg-logo="http://www.lineup.tv.br/canais/globo.gif", GLOBO-SP
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globosp_cfe21c68_074f35f68639057ce4e73f5cdac6ca2a0c659040/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDphZjQ6YTAwMDpjMzAwOmFkZWM6ZDllNjo5ZmMwOjYxNmMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC45NiBTYWZhcmkvNTM3LjM2IEVkZy84OC4wLjcwNS41MyI7aToyO2k6MTYxMTg0OTYyODt9
+
+#EXTINF: -1 tvg-logo="http://www.lineup.tv.br/canais/globo.gif", GLOBO-RJ
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=PPVe60tQbQg8AbC2PMWQ7A&3U1G7qaTxrPbalZnEx=1611694312
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/01/bbb-logo-big-brother-brasil-logo-1024x418.png" , BBB21
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21hd_10d293a9_00e959ce667b4c822bd920a0508f195de8cb4137/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDphZjQ6YTAwMDpjMzAwOmFkZWM6ZDllNjo5ZmMwOjYxNmMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC45NiBTYWZhcmkvNTM3LjM2IEVkZy84OC4wLjcwNS41MyI7aToyO2k6MTYxMTg0OTY2Njt9
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06738f892b030766e23561716f330734.png" group-title="News",CNN BRASIL
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" tvg-country="BR" group-title="News",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", SBT
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w920548275.m3u8
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",SBT Interior SP 
+https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/150px-Logotipo_da_Record.png", RECORD TV
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhi8PrSURYvL7Eut-qfmAoi6pNshbFq7boraWAC=s900-c-k-c0x00ffffff-no-rj",RECORD NEWS 
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2085267641.m3u8
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",TV BAND PA (RBATV) 
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png", TV CULTURA MG
+https://video-rvd-rj-1.rnp.br/live/ocp(t(Fl2OkMPs7eY)r(fVR9ug)a(vrSAHQ)p(d(2xc)k(q8Q)m(x1-xuwiIA_1teTJSpZ0-uw)n(a(FlUjGw)s(zsA)'a(szP_ew)s(Dwk)))s(s(obk)b(4wjTcx-U4ZKnkatzw0-b-QPzIRXYYlMKgCC68zTNphOv2IBOM2EXoqOPnG3xhFulNm-mGSNhnW-2VqhPHQ)'s(-aA)b(BUDvambqMJnjrNSzUYF_CYs79uj1Pfg_vnynkGj-3qLctO8tOKiomBs6jfpQLO7G3cu5GzlvjfGD5kyCSu8DGWG4XvjrdF59gCqPDKmo)'s(bgQ)b(aGjJsWBq))m(0))/1_index.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3869114419955e0e5194a66f58f6cbe2.png",REDE TV! PB (TV Arapuan) 
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" ,REDE BRASIL 
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c4eda05073e29a566c79bfb71883acf.jpg" ,TV GAZETA MA (TV Alternativa) 
+http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
+
+#EXTINF: -1,CANAL 29 
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f50cbf88b83e261740d68fba907a6dd.jpg",LONDRINA TV (Filmes 24h) 
+https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8
+
+#EXTINF: -1,TV MEGA CINE 
+https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
+
+#EXTINF: -1,TV MANCHETE WEB 
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
+
+#EXTINF: -1,BONS TEMPOS TV 
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF: -1,TV CLÁSSICOS 
+http://video01.kshost.com.br/jorge1313/jorge1313/playlist.m3u8
+
+#EXTINF: -1,RETRÔ CARTOON (Desenhos Clássicos) 
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF: -1,VINTAGE TV 
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
+
+#EXTINF: -1,KRÓNOS MOVIE WEB TV 
+https://livefocamundo.com:8081/8588/index.m3u8
+
+#EXTINF: -1,TV TUPI 
+https://stmv1.srvif.com/redetupi/redetupi/playlist.m3u8
+
+#EXTINF: -1,PPTV CHANNEL 
+https://5cf4a2c2512a2.streamlock.net/felipemello/felipemello/playlist.m3u8
+
+#EXTINF: -1,ISTV
+https://stmv1.voxtvhd.com.br/istv/istv/playlist.m3u8
+
+#EXTINF: -1,TV ARACATI
+https://livefocamundo.com:8081/8148/index.m3u8
+
+#EXTINF: -1,WEB TV ÁGUA BOA 
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+
+#EXTINF: -1,TV VALE DAS ARTES 
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+
+#EXTINF: -1,TOP TV 
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+
+#EXTINF: -1,TV NATAL 
+http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
+
+#EXTINF: -1,CINE TRIANON TV 
+https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
+
+#EXTINF: -1,GENIALL TV 
+https://studio.genialltv.com/live/Stream1_360p/playlist.m3u8
+
+#EXTINF: -1,IMPERIAL TV 
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/cunklist.m3u8
+
+#EXTINF: -1,TV JAPI
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
+
+#EXTINF: -1,REDE TV SUL 
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+
+#EXTINF: -1,TV LATINASAT
+https://livefocamundo.com:8081/8470/index.m3u8
+
+#EXTINF: -1,ARAGUAIA TV 
+http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
+#EXTINF: -1,TV MAIS BRASIL 
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+
+#EXTINF: -1,TV CARIOCA NET 
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+
