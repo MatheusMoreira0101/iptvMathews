@@ -3,14 +3,17 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",URL para EPG: http://epg.liveiptv.net/epg.xml
 http://0.0.0.0
 
-#EXTINF: -1 tvg-logo="http://www.lineup.tv.br/canais/globo.gif", GLOBO-SP
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/globosp_cfe21c68_074f35f68639057ce4e73f5cdac6ca2a0c659040/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDphZjQ6YTAwMDpjMzAwOmFkZWM6ZDllNjo5ZmMwOjYxNmMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC45NiBTYWZhcmkvNTM3LjM2IEVkZy84OC4wLjcwNS41MyI7aToyO2k6MTYxMTg0OTYyODt9
-
-#EXTINF: -1 tvg-logo="http://www.lineup.tv.br/canais/globo.gif", GLOBO-RJ
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=PPVe60tQbQg8AbC2PMWQ7A&3U1G7qaTxrPbalZnEx=1611694312
-
-#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/01/bbb-logo-big-brother-brasil-logo-1024x418.png" , BBB21
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/01/bbb-logo-big-brother-brasil-logo-1024x418.png" group-title="BBB", BBB21
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21hd_10d293a9_00e959ce667b4c822bd920a0508f195de8cb4137/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDphZjQ6YTAwMDpjMzAwOmFkZWM6ZDllNjo5ZmMwOjYxNmMiO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC45NiBTYWZhcmkvNTM3LjM2IEVkZy84OC4wLjcwNS41MyI7aToyO2k6MTYxMTg0OTY2Njt9
+
+#EXTINF: -1 tvg-logo="" grupo-title="BBB" , BBB21 MOSAICO
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/bbb21mosaico_6765c043_1f5eea1d3e1bbbdcfd6b0e13de2018624310a503/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDphZjQ6YTAwMDpjMzAwOjQ4YmE6ZGFmNzozMGE3OmZmOTciO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC45NiBTYWZhcmkvNTM3LjM2IEVkZy84OC4wLjcwNS41MyI7aToyO2k6MTYxMTg2MzYwNjt9
+
+#EXTINF: -1 tvg-logo="http://www.lineup.tv.br/canais/globo.gif" group-title="Rede aberta" , GLOBO-SP
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globosp_cfe21c68_074f35f68639057ce4e73f5cdac6ca2a0c659040/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.lineup.tv.br/canais/globo.gif" group-title="Rede aberta", GLOBO-RJ
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/globosp_cfe21c68_074f35f68639057ce4e73f5cdac6ca2a0c659040/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDphZjQ6YTAwMDpjMzAwOjQ4YmE6ZGFmNzozMGE3OmZmOTciO2k6MTtzOjEzMDoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg4LjAuNDMyNC45NiBTYWZhcmkvNTM3LjM2IEVkZy84OC4wLjcwNS41MyI7aToyO2k6MTYxMTg2MjQ1NTt9
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/06738f892b030766e23561716f330734.png" group-title="News",CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
@@ -18,42 +21,98 @@ https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" tvg-country="BR" group-title="News",CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png", SBT
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globonews.png" tvg-group="News", GLOBO NEWS
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/globonews_dc685e2c_e9d0af7f2a6ee07b70370b199ec1e530fa1a49f2/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Rede aberta", SBT
 https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/chunklist_w920548275.m3u8
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png",SBT Interior SP 
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="Rede aberta",SBT Interior SP 
 https://5a1c76baf08c0.streamlock.net/sbtinterior/25twftddfvwdgb5oodon3nxdcrmj5qbo/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/150px-Logotipo_da_Record.png", RECORD TV
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/150px-Logotipo_da_Record.png" group-title="Rede aberta", RECORD TV
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhi8PrSURYvL7Eut-qfmAoi6pNshbFq7boraWAC=s900-c-k-c0x00ffffff-no-rj",RECORD NEWS 
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhi8PrSURYvL7Eut-qfmAoi6pNshbFq7boraWAC=s900-c-k-c0x00ffffff-no-rj" group-title="Rede aberta",RECORD NEWS 
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png", BAND
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Rede aberta", BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w2085267641.m3u8
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png",TV BAND PA (RBATV) 
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-3.png" group-title="Rede aberta",TV BAND PA (RBATV) 
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png", TV CULTURA MG
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="Rede aberta", TV CULTURA MG
 https://video-rvd-rj-1.rnp.br/live/ocp(t(Fl2OkMPs7eY)r(fVR9ug)a(vrSAHQ)p(d(2xc)k(q8Q)m(x1-xuwiIA_1teTJSpZ0-uw)n(a(FlUjGw)s(zsA)'a(szP_ew)s(Dwk)))s(s(obk)b(4wjTcx-U4ZKnkatzw0-b-QPzIRXYYlMKgCC68zTNphOv2IBOM2EXoqOPnG3xhFulNm-mGSNhnW-2VqhPHQ)'s(-aA)b(BUDvambqMJnjrNSzUYF_CYs79uj1Pfg_vnynkGj-3qLctO8tOKiomBs6jfpQLO7G3cu5GzlvjfGD5kyCSu8DGWG4XvjrdF59gCqPDKmo)'s(bgQ)b(aGjJsWBq))m(0))/1_index.m3u8
 
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3869114419955e0e5194a66f58f6cbe2.png",REDE TV! PB (TV Arapuan) 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3869114419955e0e5194a66f58f6cbe2.png" group-title="Rede aberta",REDE TV! PB (TV Arapuan) 
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" ,REDE BRASIL 
+#EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Rede aberta",REDE BRASIL 
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c4eda05073e29a566c79bfb71883acf.jpg" ,TV GAZETA MA (TV Alternativa) 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1c4eda05073e29a566c79bfb71883acf.jpg" group-title="Rede aberta",TV GAZETA MA (TV Alternativa) 
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 #EXTINF: -1,CANAL 29 
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f50cbf88b83e261740d68fba907a6dd.jpg",LONDRINA TV (Filmes 24h) 
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f50cbf88b83e261740d68fba907a6dd.jpg" group-title="Rede aberta",LONDRINA TV (Filmes 24h) 
 https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/nick.png" group-title="Desenhos", Nick
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/nickelodeon_bc33ea4e_ede1309f3f976676f200c001fdc7e8882aee0683/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/dicoverykids.png" group-title="Desenhos", DISCOVERY KIDS 
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/discoverykids_80e28a51_6ed107e04698720050dc1b7be529671dc544f79d/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/disneyxd.png" group-title="Desenhos", DISNEY XD
+https://aovivo.gratis/wp-content/uploads/2019/07/disneyxd.png
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/disneychannel.png" group-title="Desenhos", DISNEY CHANNEL
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/disneychannel_a9334987_006ed2cad315a88508ce381c5e6d48a3916c334d/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/discovery.png" group-title="DOCUMENTARIO", DISCOVERY CHANNEL
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoverychannel_af3e1334_01cb14d59cd1c105c13b27318e5a062e13c1606b/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espnbrasil.png" group-title="Esportes", ESPN Brasil
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espnbrasil_2a459380_132cc96334335ac33d7359ead07973eefac11a30/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/espn.png" group-title="Esportes" , ESPN 2
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/espn2_6c1e671f_004b48a93068e746f257092f7cc833e1cfffe184/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/foxsports.png" group-title="Esportes" , FOX Esportes
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_71d506069168763c1d5c68e5c74a082b0ac6d954/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv.png" group-title="Esportes" , EsportTv 
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_5fa0611f765b6c8edf5590fa09fc90dd6dd8045f/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv2.png" group-title="Esportes" , EsportTv 2
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/sportv2_22ab0e43_f242b3c3557af5d833f2cb5f08282a5271c7a84f/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv3.png" group-title="Esportes" , EsportTv 3
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/sportv3_e1a864f0_3250f8792c43c9e90b95e5b128feaf4926890bd5/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere4.png" group-title="Esportes" , PREMIERE 4
+https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/premiere4_142e9ae3_c65af0c22c73b618ca78c36d111d26137168a490/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere5.png" group-title="Esportes" , PREMIERE 5
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/premiere5_0486ffb0_f4e638c4814dda4dd315d0fd360b9c4eec0be1b3/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere6.png" group-title="Esportes" , PREMIERE 6
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/premiere6_8a279e5c_24d399b41fc1398c975a611a968fc511a5bab906/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere7.png" group-title="Esportes" , PREMIERE 7
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/premiere7_0b6a6376_ad82ab9d583e305b540979663c28d55be816d9a0/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="Esportes" , 
+
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/12/ufc-logo-6-1024x355.png" group-title="Esportes" , UFC 
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/combate_ac3478d6_720ecf252c5d04af68b7818b87e6497c562fe9ec/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/combate.png" group-title="Esportes" , Fox Esportes
+
 
 #EXTINF: -1,TV MEGA CINE 
 https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8

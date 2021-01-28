@@ -7,3 +7,4 @@ OutPut.m3u
 package.json
 *.js
 *.lock
+.gitignore
